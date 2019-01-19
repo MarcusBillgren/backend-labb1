@@ -1,0 +1,10 @@
+API-nyckel (v3 auth)
+
+ce593ce8b9508e475d3da81d78674eb4
+
+Låsåtkomsttoken för API (v4 auth)
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZTU5M2NlOGI5NTA4ZTQ3NWQzZGE4MWQ3ODY3NGViNCIsInN1YiI6IjVjMWEyY2ZkYzNhMzY4MzQ1NGQwMTIyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.SwCQWlnh9UQeU-O6UcAf4fwlxXgg7LRpe3Nglam_tF4
+Example API Request
+
+https://api.themoviedb.org/3/movie/550?api_key=ce593ce8b9508e475d3da81d78674eb4
